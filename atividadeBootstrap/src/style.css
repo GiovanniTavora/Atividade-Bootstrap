@@ -30,6 +30,11 @@
   background-color: rgba(255, 255, 255, 0.9); /* leve transparência */
 }
 
+.contato h1,
+.contato footer{
+  text-align: center;
+}
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
